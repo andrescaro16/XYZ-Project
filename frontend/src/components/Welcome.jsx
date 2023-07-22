@@ -15,6 +15,7 @@ const Welcome = () => {
                     <span style={{ letterSpacing: '0.3em', textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)' }}>DECO</span>
                 </h1>
                 <p className='text-white font-normal mt-4 px-4'>Welcome to the future of conscious consumption. Blockchain technology and high-quality products come together to offer you a unique experience.</p>
+                <p className='text-white font-normal mt-4 px-4'>Join our decentralized network for adventurers, rebels, tranquil souls, and the conscious-minded.</p>
 			</div>
 		</div>
 	);
