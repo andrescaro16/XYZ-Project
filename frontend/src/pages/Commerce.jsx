@@ -19,11 +19,16 @@ const Commerce = () => {
                 <Search />
                 <div className='flex flex-wrap gap-2 justify-center items-center mt-20 mx-2 md:mx-6 xl:mx-8'>
                     <Link to='/profile/1'>
-                        <Store name={"Store x"} img={"https://images.pexels.com/photos/7667699/pexels-photo-7667699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                        <Store name={"Diego el Campesino"} img={"https://i.ibb.co/VBwXWNY/image.png"}/>
                     </Link>
-                    <Store name={"Store y"} img={"https://images.pexels.com/photos/7667911/pexels-photo-7667911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
-                    <Store name={"Store z"} img={"https://images.pexels.com/photos/6321773/pexels-photo-6321773.jpeg"}/>
-                    <Store name={"Store a"} img={"https://images.pexels.com/photos/5810703/pexels-photo-5810703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                    <Store name={"Zarco Store"} img={"https://images.pexels.com/photos/7667911/pexels-photo-7667911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                    <Store name={"Pelusa Store"} img={"https://images.pexels.com/photos/6321773/pexels-photo-6321773.jpeg"}/>
+                    <Store name={"Juan Chocolates"} img={"https://i.ibb.co/QjsYbS2/image.png"}/>
+                    <Store name={"Juan Store"} img={"https://images.pexels.com/photos/7852448/pexels-photo-7852448.jpeg?auto=compress&cs=tinysrgb&w=1600"}/>
+                    <Store name={"Happy420"} img={"https://images.pexels.com/photos/5810703/pexels-photo-5810703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                    <Store name={"Blonch"} img={"https://i.ibb.co/cCKPzgP/image.png"}/>
+                    <Store name={"MedicalCBD"} img={"https://i.ibb.co/8xcZTyH/image.png"}/>
+
                 </div>
 			</div>
 		</>
