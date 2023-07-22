@@ -13,6 +13,8 @@
   background-color:hsla(195,37%,10%,1);
   background-image: radial-gradient(at 0% 0%, hsla(187, 66%, 35%, 0.5) 0, transparent 50%),
                     radial-gradient(at 50% 0%, hsla(32,25%,52%,0.4) 0, transparent 50%),
-                    radial-gradient(at 100% 0%, hsla(176, 63%, 42%, 0.5) 0, transparent 50%)
+                    radial-gradient(at 100% 0%, hsla(176, 63%, 42%, 0.5) 0, transparent 50%),
+                    radial-gradient(at 0% 150%, hsla(187, 66%, 35%, 0.5) 0, transparent 50%),
+                    radial-gradient(at 50% 150%, hsla(32,25%,52%,0.3) 0, transparent 50%),
+                    radial-gradient(at 100% 150%, hsla(176, 63%, 42%, 0.5) 0, transparent 50%)
 }
-
