@@ -15,10 +15,10 @@ function App() {
         <Routes>
           <Route path='/' element={ <Home /> } />
          {/*  <Route path='/' element={ <Register /> } /> */}
-          <Route path='/' element={ <Login /> } />
-          <Route path='/' element={ <Commerce /> } />
-          <Route path='/' element={ <Profile /> } />
-          <Route path='/' element={ <Product /> } />
+          <Route path='/login' element={ <Login /> } />
+          <Route path='/commerce' element={ <Commerce /> } />
+          <Route path='/profile/:id' element={ <Profile /> } />
+          <Route path='/product/:id' element={ <Product /> } />
           <Route path='*' element={<h1>Not Found</h1>} />
         </Routes>
       </BrowserRouter>
