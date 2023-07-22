@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
                 
                 <HelmetProvider>
                     <Helmet>
-                        <title>XYZ</title>
+                        <title>DECO</title>
                         {/*  <link rel="icon" href="" /> */}
                     </Helmet>
                 </HelmetProvider>

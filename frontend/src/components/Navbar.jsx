@@ -25,8 +25,8 @@ const Navbar = () => {
 				<Link to='/'>
 					<div className='flex justify-center items-center'>
 						{/* <img src={logo} alt='Logo' className='cursor-pointer' /> */}
-						<p className='text-3xl font-bold text-white mx-2 select-none'>
-							<span style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)' }}>XYZ</span>
+						<p className='text-2xl font-bold text-white mx-1 select-none'>
+							<span style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.3)' }}>DECO</span>
 						</p>
 					</div>
 				</Link>
