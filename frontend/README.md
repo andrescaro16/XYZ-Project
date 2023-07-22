@@ -1,8 +1,9 @@
-# React + Vite
+# Our principles
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+We believe in the democratisation of technology: Our system is designed for those who seek to explore and experience the digital world in a simple way.
 
-Currently, two official plugins are available:
+We value conscious rebellion: We celebrate those who dare to challenge the status quo, those who seek new ways to interact and connect in the digital world.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+We promote digital peace of mind: We offer a safe and peaceful space for those who value their privacy and seek control over their digital lives.
+
+We care about the well-being of people and nature: Our system is designed with a focus on the conscious use of resources and respect for our planet.
