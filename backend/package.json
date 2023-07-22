@@ -5,7 +5,7 @@
   "description": "A Strapi application",
   "scripts": {
     "dev:docker": "docker compose up -d",
-    "dev": "ENV_PATH=./.env.dev NODE_ENV=dev strapi start",
+    "dev": "ENV_PATH=./.env.dev NODE_ENV=dev strapi develop",
     "develop": "strapi develop",
     "start": "npx strapi start",
     "build": "npx strapi build",
