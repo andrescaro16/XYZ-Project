@@ -1,7 +1,9 @@
+import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar';
 import Search from '../components/Search';
 import Store from '../components/Store';
 import { useStateContext } from '../context/StateContext';
+
 
 const Commerce = () => {
 
@@ -16,7 +18,9 @@ const Commerce = () => {
 				</h1>
                 <Search />
                 <div className='flex flex-wrap gap-2 justify-center items-center mt-20 mx-2 md:mx-6 xl:mx-8'>
-                    <Store name={"Store x"} img={"https://images.pexels.com/photos/7667699/pexels-photo-7667699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                    <Link to='/profile/1'>
+                        <Store name={"Store x"} img={"https://images.pexels.com/photos/7667699/pexels-photo-7667699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
+                    </Link>
                     <Store name={"Store y"} img={"https://images.pexels.com/photos/7667911/pexels-photo-7667911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
                     <Store name={"Store z"} img={"https://images.pexels.com/photos/6321773/pexels-photo-6321773.jpeg"}/>
                     <Store name={"Store a"} img={"https://images.pexels.com/photos/5810703/pexels-photo-5810703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
