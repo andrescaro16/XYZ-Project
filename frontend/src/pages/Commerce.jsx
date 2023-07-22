@@ -28,6 +28,7 @@ const Commerce = () => {
                     <Store name={"Happy420"} img={"https://images.pexels.com/photos/5810703/pexels-photo-5810703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"}/>
                     <Store name={"Blonch"} img={"https://i.ibb.co/cCKPzgP/image.png"}/>
                     <Store name={"MedicalCBD"} img={"https://i.ibb.co/8xcZTyH/image.png"}/>
+                    <Store name={"Bowlrat"} img={"https://i.ibb.co/dDpkQ42/image.png"}/>
 
                 </div>
 			</div>
